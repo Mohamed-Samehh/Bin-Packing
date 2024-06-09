@@ -15,6 +15,7 @@ Prerequisites
 - Required Python packages: matplotlib, tkinter
 
 Installation
+
 1- Install the required packages:
 (Command)
 pip install matplotlib
