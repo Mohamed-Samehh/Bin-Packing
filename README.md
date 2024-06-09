@@ -16,9 +16,9 @@ Prerequisites
 
 Installation
 
-- Install the required packages: pip install matplotlib
+- Install the required packages: write in the terminal "pip install matplotlib".
 
-- Run the application: python bin_packing_solver.py
+- Run the application: write in the terminal "python bin_packing_solver.py".
 
 How to Use
 - Enter Item Sizes: Input the sizes of the items separated by spaces.
