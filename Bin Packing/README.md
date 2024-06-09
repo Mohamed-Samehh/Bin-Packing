@@ -17,10 +17,12 @@ Prerequisites
 Installation
 
 1- Install the required packages:
+
 (Command)
 pip install matplotlib
 
 2- Run the application:
+
 (Command)
 python bin_packing_solver.py
 
